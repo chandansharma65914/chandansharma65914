@@ -29,7 +29,7 @@
 
 <h1 align="center">Welcome to My Profile 👋</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Sonu+Krishnamurti+Shettiyar....;A+Full-Stack+Web+developer....;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=435&lines=I+am+Chandan+Sharma....;A+Full-Stack+Web+developer....;Who+Love's+to+code....;Always+curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
@@ -39,7 +39,7 @@
 
 ###
 <div>
-<h2 align="left">I am 💪Sonu Shettiyar from Chandrapur, Maharashtra.
+<h2 align="left">I am 💪Chandan Sharma from Madhubani, Bihar.
   </h2>
  
   <br>
@@ -47,12 +47,12 @@
 🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1dWHHUH6uZrnvy2odtlG4mPY6iEu-XvMX/view?usp=sharing">Resume</a><br><br>
- 📫  Know more about me <a href="https://sonu-shettiyar.github.io/">Portfolio</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1w4IO9UnNG4HbiRVCu7yI_nT6TMj3HU9C/view?usp=share_link">Resume</a><br><br>
+ 📫  Know more about me <a href="https://chandansharma65914.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/chandansharma65914">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, Node.js<br><br>
- ⚡ How to reach me <a href="chandansharma65914@gmail.com">sonushettiyar9393@gmail.com</a>
+ ⚡ How to reach me <a href="chandansharma65914@gmail.com">chadnansharma65914@gmail.com</a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 ###
@@ -108,7 +108,7 @@
   <img width=800 alig src="https://github-profile-trophy.vercel.app/?username=chandansharma65914&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
  <br>
-  <img src="https://profile-counter.glitch.me/Sonu-Shettiyar/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Chandan-Sharma/count.svg?"  />
 </div>
 
 ###
