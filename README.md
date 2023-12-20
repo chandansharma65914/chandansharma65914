@@ -45,7 +45,7 @@
   <br>
   
 🔭 I’m currently preparing for placements!. <br><br>
- 🌱 I’m currently learning MERN Stack.<br><br>
+ 🌱 I’m currently learning Java Backend Development<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1w4IO9UnNG4HbiRVCu7yI_nT6TMj3HU9C/view?usp=share_link">Resume</a><br><br>
  📫  Know more about me <a href="https://chandansharma65914.github.io/">Portfolio</a><br><br>
