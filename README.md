@@ -51,7 +51,8 @@
  📫  Know more about me <a href="https://chandansharma65914.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/chandansharma65914">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, Node.js<br><br>
+ 💬 Ask me about HTML, CSS, JavaScript, Java, Spring Boot
+, Hibernate, MySQL, Rest Api<br><br>
  ⚡ How to reach me <a href="chandansharma65914@gmail.com">chadnansharma65914@gmail.com</a>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
