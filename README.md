@@ -53,7 +53,7 @@
  😄 All of my projects are available at
 <a href="https://github.com/chandansharma65914">My Github Repositories</a><br><br>
 
-⚡ How to reach me <a href="chandansharma65914@gmail.com">chadnansharma65914@gmail.com</a>
+⚡ How to reach me <a href="chandansharma65914@gmail.com">chadnansharma65914@gmail.com</a><br><br>
 💬 Ask me about HTML, CSS, JavaScript, Java, Spring Boot
 , Hibernate, MySQL, Rest Api<br><br>
  
