@@ -49,11 +49,14 @@
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
  🤔 Check Out my <a href="https://drive.google.com/file/d/1w4IO9UnNG4HbiRVCu7yI_nT6TMj3HU9C/view?usp=share_link">Resume</a><br><br>
  📫  Know more about me <a href="https://chandansharma65914.github.io/">Portfolio</a><br><br>
+  🤔 Check Out my <a href="www.linkedin.com/in/chandansharma65914">Linkedin</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/chandansharma65914">My Github Repositories</a><br><br>
+
+⚡ How to reach me <a href="chandansharma65914@gmail.com">chadnansharma65914@gmail.com</a>
  💬 Ask me about HTML, CSS, JavaScript, Java, Spring Boot
 , Hibernate, MySQL, Rest Api<br><br>
- ⚡ How to reach me <a href="chandansharma65914@gmail.com">chadnansharma65914@gmail.com</a>
+ 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 ###
