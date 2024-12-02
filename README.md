@@ -54,7 +54,7 @@
 <a href="https://github.com/chandansharma65914">My Github Repositories</a><br><br>
 
 ⚡ How to reach me <a href="chandansharma65914@gmail.com">chadnansharma65914@gmail.com</a>
- 💬 Ask me about HTML, CSS, JavaScript, Java, Spring Boot
+💬 Ask me about HTML, CSS, JavaScript, Java, Spring Boot
 , Hibernate, MySQL, Rest Api<br><br>
  
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
